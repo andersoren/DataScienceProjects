@@ -7,15 +7,7 @@ Among the interactive visualizations are:
 - **Histograms** to explore distribution patterns and detect underlying trends.
 - **Pie Charts** to analyze categorical data and understand proportions.
 - **Interactive Maps** to visualize data geographically and uncover regional insights.
--** Data Tables** for detailed examination and exploration of raw data
-
-Packages needed to run pp_dashboard.ipynb: 
-- plotly
-- dash
-- dash_bootstrap_components
-- numpy
-- pandas
-- matplotlib
+- **Data Tables** for detailed examination and exploration of raw data
 
 Datasets used are:
 - [Country by Continent from World Population Review](https://worldpopulationreview.com/country-rankings/list-of-countries-by-continent)
